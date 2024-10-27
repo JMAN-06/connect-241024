@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 login 1
 lonin 2
 login 3
+=======
+master 1
+2
+3
+>>>>>>> main
 LR4
 5
